@@ -56,11 +56,11 @@
 
 # 1. Fork a repo that has issues labeled SpringCleaining'
 
-* then follow the normal GithubFlow: Fork, Clone, Push, Create a Pull Request to the master 
+* then follow the normal GithubFlow: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
 
 * the Maintainer will review, and hopefully merge :-)
 
-# 2. How Do i know my contribution is ready to be accepted? 
+# 2. How do i know my contribution is ready to be accepted? 
 
 * Better Code Hub will help you: your commits will be evaluated for compliance with these 10 guidelines for building maintainable software
 
