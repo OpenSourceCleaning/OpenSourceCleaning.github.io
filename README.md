@@ -17,7 +17,7 @@
 
 * We will send free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 Contributors that have a Spring Cleaning Pull Request accepted.
 
-* A cleaner code base for the Maintainer
+* A cleaner code base for the Maintainer.
 
 # How does it work ?
 
@@ -33,11 +33,13 @@
 
 # 1. How do i get those spring cleaing issues
 
-* We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors 
+* We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors.
 
 # 2. Why should i accept these Pull Requests from people unknown to me?
 
-* Every Pull Request is analyzed for improvements in code quality by Better Code Hub. These results are in the Pull Request conversation. Maintainers will only accept improvements to the code
+* Every Pull Request is analyzed for improvements in code quality by Better Code Hub. These results are in the Pull Request conversation. Maintainers will only accept improvements to the code.
+
+* You help growing the Open Source Community by accepting Pull Requests that are of high quality. Contributors will do their first contribution to a real project. 
 
 # 3. How to enable Better Code Hub to validate each Pull Request?
 
@@ -45,9 +47,10 @@
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
-# 4. How to get an entry on the Spring Cleaning score board?
+# 4. How to get an entry on the Spring Cleaning scoreboard?
 
-* Send us a Pull request with your Better Code Hub Badge code.
+* Send us a Pull request with your Better Code Hub Badge code here.
+
 
 # For a Contributor
 
