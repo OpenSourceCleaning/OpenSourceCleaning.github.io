@@ -14,7 +14,7 @@
 
 * At the same time we would like to activate (new) contributors globally by handing them clear things to refactor that really matter.
 
-# what is the reward?
+# What is the reward?
 
 * We will send free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 Contributors that have a Spring Cleaning Pull Request accepted.
 
