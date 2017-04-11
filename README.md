@@ -7,7 +7,6 @@
 **Whois**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
 
-
 # What is the BIG idea here?
 
 * With Open Source Spring Cleaning we at Better Code Hub want to help the open source community to finally fix those pesky refactorings that we all know but never make the time to fix. Get rid of those refactoring that slow you down creating great new features.
