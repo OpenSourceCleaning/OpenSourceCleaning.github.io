@@ -30,7 +30,7 @@
 
 * We will host a scoreboard with badges for the repos that particpate. 
 
-## for a Maintainer
+# For a Maintainer
 
 # 1. How do i get those spring cleaing issues
 
@@ -50,15 +50,25 @@
 
 * Send us a Pull request with your Better Code Hub Badge code.
 
-## for a Contributor
+# For a Contributor
 
-# 1. How Do i know my contribution is ready for a Pull Request 
+# 1. Fork a repo that has issues labeled SpringCleaining'
+
+* then follow the normal GithubFlow: Fork, Clone, Push, Create a Pull Request to the master 
+
+* the Maintainer will review, and hopefully merge :-)
+
+# 2. How Do i know my contribution is ready to be accepted? 
 
 * Better Code Hub will help you: your commits will be evaluated for compliance with these 10 guidelines for building maintainable software
 
 ![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
 
+# 3. How do i use Better Code Hub
+
 * Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
+
+* To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
 
 # Want to register ?
