@@ -31,7 +31,7 @@
 
 # For a Maintainer
 
-# 1. How do i get those spring cleaing issues
+# 1. How do i get those spring cleaning issues
 
 * We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors.
 
