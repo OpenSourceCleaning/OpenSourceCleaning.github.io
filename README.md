@@ -2,19 +2,25 @@
 
 **When**: May 2017
 
-**Where**: [Issues labeled SpringCleaning on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)
+**Where**: [Issues Labeled SpringCleaning on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)
 
-# What is the idea here, what is the reward?
+**Who is behind this intiative**  [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
-* With Open Source Spring Cleaning we at Software Improvement Group want to help te open source community to finally fix those refactorings that slow you down. And on the same time we would like to activate contributors globally by handing them clear things to refactor that really matter.
 
-* We will send free book to the first 100 Contributors that have a Spring Cleaning Pull Request accepted
+
+# What is the idea here?
+
+* With Open Source Spring Cleaning we at Software Improvement Group want to help the open source community to finally fix those pesky refactorings that slow you down. And at the same time we would like to activate (new) contributors globally by handing them clear things to refactor that really matter.
+
+# what is the reward?
+
+* We will send free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 Contributors that have a Spring Cleaning Pull Request accepted.
 
 * A cleaner code base for the Maintainer
 
 # How does it work in general?
 
-* By labeling issues with 'SpringCleaning' Maintainers create small tasks for Contributors that contain prioritized refactorings using 
+* By labeling issues with 'SpringCleaning' Maintainers create small tasks for Contributors that contain prioritized refactorings. 
 
 * The Contributors follow the normal GitHub flow and create a Pull Request when they are ready.
 
@@ -24,7 +30,7 @@
 
 ## How do i get those spring cleaing issues
 
-* We do not wan to interfere with you backlog. You can run Better Code Hub and based on the analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors 
+* We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors 
 
 ## Why should i accept these foreign Pull Requests?
 
