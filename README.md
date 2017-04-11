@@ -49,7 +49,7 @@
 
 # 4. How to get an entry on the Spring Cleaning scoreboard?
 
-* Send us a Pull request with your Better Code Hub Badge code here.
+* Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md).
 
 
 # For a Contributor
@@ -72,18 +72,16 @@
 
 * To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
+# 4. is there a step 4?
+
+* 4. Improve code! 😊
+
+
 
 # Want to register ?
 
-1. e-mail your repo name [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to be listed
+1. e-mail your repo name [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to be listed on  [Spring Cleaning Score Board](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md)
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) 
-
-4. Improve code! 😊
-
-5. If needed, get support through bettercodehub@sig.eu
-
-6. Your Pro access to Better Code Hub remains valid for *6 months*
 
 
 # Specifications 
