@@ -1,4 +1,4 @@
-**What**: Open Source Spring Cleaning.
+**What**: Open Source Spring Cleaning
 
 **When**: May 2017
 
