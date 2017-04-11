@@ -28,34 +28,37 @@
 
 * The Maintainers can review these Pull Requests and merge the improvement.
 
-# How does it work for a Maintainer #
+* We will host a scoreboard with badges for the repos that particpate. 
 
-# How do i get those spring cleaing issues
+## for a Maintainer
+
+# 1. How do i get those spring cleaing issues
 
 * We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors 
 
-# Why should i accept these Pull Requests from people unknown to me?
+# 2. Why should i accept these Pull Requests from people unknown to me?
 
 * Every Pull Request is analyzed for improvements in code quality by Better Code Hub. These results are in the Pull Request conversation. Maintainers will only accept improvements to the code
 
-# How to enable Better Code Hub to validate each Pull Request?
+# 3. How to enable Better Code Hub to validate each Pull Request?
 
 * To enable Better Code Hub to run for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
+# 4. How to get an entry on the Spring Cleaning score board?
 
+* Send us a Pull request with your Better Code Hub Badge code.
 
-# How does it work for a Contributor #
+## for a Contributor
 
-# How Do i know my contribution is ready for a Pull Request 
+# 1. How Do i know my contribution is ready for a Pull Request 
 
 * Better Code Hub will help you: your commits will be evaluated for compliance with these 10 guidelines for building maintainable software
 
 ![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
 
 * Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
-
 
 
 # Want to register ?
