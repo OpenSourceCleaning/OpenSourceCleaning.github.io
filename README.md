@@ -54,7 +54,7 @@
 
 # For a Contributor
 
-# 1. Fork a repo that has issues labeled SpringCleaining'
+# 1. Fork a repo that has issues labeled SpringCleaning'
 
 * then follow the normal GithubFlow: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
 
