@@ -46,16 +46,16 @@ You can also send us an e-mail if you prefer and we'll put it up there.
 
 ## How do I know my contribution is ready to be accepted? 
 
-You can't know for sure of course. But you can use Better Code Hub on your proposed contribution. 
+You can't know for sure of course. But you can use Better Code Hub on your proposed contribution and check the guidelines. 
 
-Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
+Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
 To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
 ## Feedback 
 
-Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu if you're using it. We're always happy to hear improvement suggestions from you.  
+Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. We're always happy to hear improvement suggestions from you.  
 
-Let's do some thorough cleaning here, one Pull Request at a time!
+*Let's do some thorough cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
