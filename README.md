@@ -12,13 +12,13 @@
 
 * At the same time we would like to activate (new) contributors globally by handing them clear things to refactor that really matter.
 
-# What is the reward?
+# What's in it for you?
 
-* We will send free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 Contributors that have a Spring Cleaning Pull Request accepted.
+* We will send a free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 contributors that get their Spring Cleaning Pull Request accepted by the repository maintainer.
 
-* A cleaner code base for the Maintainer.
+* A cleaner code base for the maintainer of the repository. 😊 
 
-# How does it work ?
+# How does it work?
 
 * By labeling issues with 'SpringCleaning' Maintainers create small tasks for Contributors that contain prioritized refactorings. 
 
