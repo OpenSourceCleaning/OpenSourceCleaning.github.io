@@ -8,7 +8,7 @@
 
 # What is Open Source Spring Cleaning?
 
-Starting out in contributing to open source projects can be daunting. Opening up the issues pertaining to popular open source projects typically means unfolding a set of very technical tasks for which without deep knowledge of the codebase are pretty much untouchable. 
+Starting out in contributing to open source projects can be daunting. Opening up the issues pertaining to popular open source projects typically means unfolding a set of very technical tasks for which without deep knowledge of the codebase are pretty much untouchable. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start? 
 
 * With Open Source Spring Cleaning we at Better Code Hub want to help the open source community to finally fix those pesky refactorings that we all know but never make the time to fix. Get rid of those refactoring that slow you down creating great new features.
 
