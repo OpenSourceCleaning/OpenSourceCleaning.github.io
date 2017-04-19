@@ -46,7 +46,9 @@ Search for repos which have [issues with the "SpringCleaning" label, on Github](
 
 You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines for confirmation of your proposal. 
 
-Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
+**Using [Better Code Hub](https://bettercodehub.com)**
+
+... is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
 To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
