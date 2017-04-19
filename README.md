@@ -36,6 +36,8 @@ Send us a Pull request with your Better Code Hub Badge code [here](https://githu
 
 You can also send us an e-mail if you prefer and we'll put it up there. 
 
+Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). 
+
 **As a contributor**
 
 Search for repos which have [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
