@@ -14,21 +14,19 @@ We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.s
 
 # What's in it for you? 
 
-If you participate in our effort you get rewarded with the following: 
+If you participate in this effort we'll reward you: 
 
-* If you're a contributor, we will send you a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted by the repository maintainer.
+* If you're a contributor, we will send you a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
 
 * If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
 # How does it work?
 
-* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then make issues from them labelled 'SpringCleaning'. 
+* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'.
 
-* contributors search them, pick them up and then follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to, thus creating a Pull Request when they are ready.
+* contributors search them, pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to - creating a Pull Request when they are ready.
 
 * maintainers can review these Pull Requests and merge the improvement if they're happy with it. 
-
-* we will host a scoreboard with badges for the repos that participate. 
 
 # Getting started as a maintainer
 
@@ -40,13 +38,13 @@ You can also send us an e-mail if you prefer and we'll put it up there.
 
 * fork a repo that has issues labeled 'SpringCleaning'.
 
-* then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
+* then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to the original repo. 
 
 * the maintainer will review, and hopefully merge 😊
 
 **How do I know my contribution is ready to be accepted?**
 
-You can't know for sure of course. But you can use Better Code Hub on your proposed contribution and check the guidelines. 
+You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines for confirmation of your proposal. 
 
 Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
