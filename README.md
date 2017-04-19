@@ -10,9 +10,7 @@
 
 Starting out in contributing to open source projects can be daunting. Opening up the issues pertaining to popular open source projects typically means unfolding a set of very technical tasks for which without deep knowledge of the codebase are pretty much untouchable. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start? 
 
-* With Open Source Spring Cleaning we at Better Code Hub want to help the open source community to finally fix those pesky refactorings that we all know but never make the time to fix. Get rid of those refactoring that slow you down creating great new features.
-
-* At the same time we would like to activate (new) contributors globally by handing them clear things to refactor that really matter.
+We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) think there's untapped potential here. There's latent talent that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create bite sized refactoring candidates and make them available for the community. 
 
 # What's in it for you?
 
