@@ -31,11 +31,11 @@
 
 # For a Maintainer
 
-# 1. How do i get those spring cleaning issues
+# 1. How do I get those spring cleaning issues
 
 * We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors.
 
-# 2. Why should i accept these Pull Requests from people unknown to me?
+# 2. Why should I accept these Pull Requests from people unknown to me?
 
 * Every Pull Request is analyzed for improvements in code quality by Better Code Hub. These results are in the Pull Request conversation. Maintainers will only accept improvements to the code.
 
@@ -66,7 +66,7 @@
 
 ![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
 
-# 3. How do i use Better Code Hub
+# 3. How do I use Better Code Hub
 
 * Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
