@@ -44,7 +44,7 @@ Search for repos which have [issues with the "SpringCleaning" label, on Github](
 
 **How do I know my contribution is ready to be accepted?**
 
-You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines for confirmation of your proposal. 
+You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. 
 
 **Using [Better Code Hub](https://bettercodehub.com)**
 
