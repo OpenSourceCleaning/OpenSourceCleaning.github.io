@@ -1,14 +1,10 @@
-**What**: Open Source Spring Cleaning.
-
 **When**: May 2017
 
-**Where**: [Issues Labeled SpringCleaning on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)
+**How**: [Issues Labeled "SpringCleaning" on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) (create them or search and fix)
 
-**Whois**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
+**Powered by**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
-
-
 
 # What is the BIG idea here?
 
