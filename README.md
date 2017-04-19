@@ -22,35 +22,35 @@ If you participate in our effort you get rewarded with the following:
 
 # How does it work?
 
-* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of prioritized refactoring candidates. They then make   issues labelled 'SpringCleaning' with them for contributors. 
+* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then make issues from them labelled 'SpringCleaning'. 
 
-* contributors pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) and create a Pull Request when they are ready.
+* contributors search them, pick them up and then follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to, thus creating a Pull Request when they are ready.
 
-* maintainers can review these Pull Requests and merge the improvement.
+* maintainers can review these Pull Requests and merge the improvement if they're happy with it. 
 
 * we will host a scoreboard with badges for the repos that participate. 
 
 # Getting started as a maintainer
 
-Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md).
+Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring cleaning scoreboard)
 
-You can also send us an e-mail if you prefer. 
+You can also send us an e-mail if you prefer and we'll put it up there. 
 
 # Getting started as a contributor
 
-* Fork a repo that has issues labeled 'SpringCleaning'
+* fork a repo that has issues labeled 'SpringCleaning'.
 
 * then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
 
-* the Maintainer will review, and hopefully merge 😊
+* the maintainer will review, and hopefully merge 😊
 
 ## How do I know my contribution is ready to be accepted? 
 
-You can't know for sure of course. But you can use Better Code Hub to check for compliance to the 10 guidelines for maintainable software. 
+You can't know for sure of course. But you can use Better Code Hub on your proposed contribution. 
 
 Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
-To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
+To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
 ## Feedback 
 
