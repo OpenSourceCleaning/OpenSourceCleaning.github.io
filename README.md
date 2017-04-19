@@ -44,7 +44,7 @@ You can also send us an e-mail if you prefer and we'll put it up there.
 
 * the maintainer will review, and hopefully merge 😊
 
-## How do I know my contribution is ready to be accepted? 
+**How do I know my contribution is ready to be accepted?**
 
 You can't know for sure of course. But you can use Better Code Hub on your proposed contribution and check the guidelines. 
 
