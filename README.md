@@ -28,13 +28,15 @@ If you participate in this effort we'll reward you:
 
 * maintainers can review these Pull Requests and merge the improvement if they're happy with it. 
 
-# Getting started as a maintainer
+# Getting started 
+
+**As a maintainer**
 
 Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring cleaning scoreboard)
 
 You can also send us an e-mail if you prefer and we'll put it up there. 
 
-# Getting started as a contributor
+**As a contributor**
 
 * fork a repo that has issues labeled 'SpringCleaning'.
 
