@@ -12,50 +12,33 @@ Starting out contributing to open source projects can be daunting. Opening up th
 
 We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) think there's untapped potential here. There's latent talent that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create bite sized refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. Now, "the ice is broken" and new faces get the hang of it, and became motivated to provide more and increasingly difficult but rewarding contributions. 
 
-# What's in it for you?
+# What's in it for you? 
 
-* We will send a free hard copy of our book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) to the first 100 contributors that get their Spring Cleaning Pull Request accepted by the repository maintainer.
+If you participate in our effort you get rewarded with the following: 
 
-* A cleaner code base for the maintainer of the repository. 😊 
+* If you're a contributor, we will send you a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted by the repository maintainer.
+
+* If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
 # How does it work?
 
-* By labeling issues with 'SpringCleaning' Maintainers create small tasks for Contributors that contain prioritized refactorings. 
+* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of prioritized refactoring candidates. They then make   issues labelled 'SpringCleaning' with them for contributors. 
 
-* The Contributors follow the normal GitHub flow and create a Pull Request when they are ready.
+* contributors pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) and create a Pull Request when they are ready.
 
-* The Maintainers can review these Pull Requests and merge the improvement.
+* maintainers can review these Pull Requests and merge the improvement.
 
-* We will host a scoreboard with badges for the repos that particpate. 
+* we will host a scoreboard with badges for the repos that participate. 
 
-# For a Maintainer
+# Getting started as a maintainer
 
-# 1. How do I get those spring cleaning issues
+Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md).
 
-* We do not want to interfere with your backlog. You can run Better Code Hub and based on it's analysis make new issues labeled 'SpringCleaning' or add the label to existing issues that are accessible for contributors.
+# Getting started as a contributor
 
-# 2. Why should I accept these Pull Requests from people unknown to me?
+* Fork a repo that has issues labeled 'SpringCleaning'
 
-* Every Pull Request is analyzed for improvements in code quality by Better Code Hub. These results are in the Pull Request conversation. Maintainers will only accept improvements to the code.
-
-* You help growing the Open Source Community by accepting Pull Requests that are of high quality. Contributors will do their first contribution to a real project. 
-
-# 3. How to enable Better Code Hub to validate each Pull Request?
-
-* To enable Better Code Hub to run for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
-
-![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
-
-# 4. How to get an entry on the Spring Cleaning scoreboard?
-
-* Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md).
-
-
-# For a Contributor
-
-# 1. Fork a repo that has issues labeled SpringCleaning'
-
-* then follow the normal GithubFlow: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
+* then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
 
 * the Maintainer will review, and hopefully merge :-)
 
