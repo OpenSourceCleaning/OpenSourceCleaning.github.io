@@ -34,47 +34,28 @@ If you participate in our effort you get rewarded with the following:
 
 Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md).
 
+You can also send us an e-mail if you prefer. 
+
 # Getting started as a contributor
 
 * Fork a repo that has issues labeled 'SpringCleaning'
 
 * then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to master of the original repo. 
 
-* the Maintainer will review, and hopefully merge :-)
+* the Maintainer will review, and hopefully merge 😊
 
-# 2. How do i know my contribution is ready to be accepted? 
+## How do I know my contribution is ready to be accepted? 
 
-* Better Code Hub will help you: your commits will be evaluated for compliance with these 10 guidelines for building maintainable software
+You can't know for sure of course. But you can use Better Code Hub to check for compliance to the 10 guidelines for maintainable software. 
 
-![guidelines](https://cdn-images-1.medium.com/max/720/1*TS-ZTeI7sQS7dy_AlMqSXQ.png "The 10 guidelines")
+Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
 
-# 3. How do I use Better Code Hub
-
-* Using Better Code Hub is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. 
-
-* To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
-
-# 4. is there a step 4?
-
-* 4. Improve code! 😊
-
-
-
-# Want to register ?
-
-1. e-mail your repo name [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to be listed on  [Spring Cleaning Score Board](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md)
-
-
-
-# Specifications 
-
-* 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual). Max repo size is 100,000 lines of code.
-
+To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the switch:
 
 ## Feedback 
 
-Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. 
+Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu if you're using it. We're always happy to hear improvement suggestions from you.  
 
-Let's build some great software!
+Let's do some thorough cleaning here, one Pull Request at a time!
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
