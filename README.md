@@ -38,7 +38,7 @@ You can also send us an e-mail if you prefer and we'll put it up there.
 
 **As a contributor**
 
-* search for repos which have [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
+Search for repos which have [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
 
 **How do I know my contribution is ready to be accepted?**
 
