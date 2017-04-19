@@ -38,11 +38,7 @@ You can also send us an e-mail if you prefer and we'll put it up there.
 
 **As a contributor**
 
-* fork a repo that has issues labeled 'SpringCleaning'.
-
-* then follow the normal GithubFlow and work on it: Fork, Clone, Push, Create a Pull Request to the original repo. 
-
-* the maintainer will review, and hopefully merge 😊
+* search for repos which have [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
 
 **How do I know my contribution is ready to be accepted?**
 
