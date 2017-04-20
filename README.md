@@ -2,7 +2,7 @@
 
 **How**: [Issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) (maintainers create / contributors search and work on)
 
-**Powered by**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu).
+**Powered by**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu) that integrates with your Push & Pull request.
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
@@ -32,11 +32,9 @@ If you participate in this effort we'll reward you:
 
 **As a maintainer**
 
-Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring cleaning scoreboard)
+Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring cleaning scoreboard) You can also send us an e-mail if you prefer and we'll put it up there. 
 
-You can also send us an e-mail if you prefer and we'll put it up there. 
-
-Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). 
+Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). For example an issue to remove duplication. 
 
 **As a contributor**
 
