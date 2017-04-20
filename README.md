@@ -48,10 +48,10 @@ You can't know for sure of course, it's up to the maintainer. But you can use Be
 
 ... is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
+To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
+
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
-
-To enable Better Code Hub to run on your fork for every Push and Pull Request on your repo, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
 ## Feedback 
 
