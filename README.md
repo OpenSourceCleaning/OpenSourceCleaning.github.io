@@ -22,7 +22,7 @@ If you participate in this effort we'll reward you:
 
 # How does it work?
 
-* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here]https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/
+* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here] (https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
 * contributors search them, pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to - creating a Pull Request when they are ready.
 
