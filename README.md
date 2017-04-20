@@ -28,7 +28,7 @@ If you participate in this effort we'll reward you:
 
 ![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
 
-* maintainers can use the Better Code Hub analysis results to review these Pull Requests and merge the improvement if they're happy with it. 
+* maintainers can use the Better Code Hub Pull request analysis results to review and merge the improvement if they're happy with it. 
 
 # Getting started 
 
