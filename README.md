@@ -1,4 +1,4 @@
-**In short*
+**In short**
 
 **When**: May 2017
 
