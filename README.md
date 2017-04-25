@@ -66,7 +66,7 @@ To enable Better Code Hub to run on your own fork for every Push and Pull Reques
 
 Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. We're always happy to hear improvement suggestions from you.  
 
-*Let's do some thorough spring cleaning, one Pull Request at a time!*
+*Let's do some thorough spring cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
