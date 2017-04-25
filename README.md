@@ -1,15 +1,15 @@
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Requests
-* maintainers create GitHub issues with the "SpringCleaning" label.
-* contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request.
+* Maintainers create GitHub issues with the "SpringCleaning" label.
+* Contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request.
 
 **Creating GitHub issues**
-* maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
+* Maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
 
 **Merging Pull Requests**
-* contributors refactor and create a Pull request to the master branch in the source repo.
-* maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
+* Contributors refactor and create a Pull request to the master branch in the source repo.
+* Maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
 
 ---------
 
@@ -31,11 +31,11 @@ If you participate in this effort we will reward you:
 
 # How does it work?
 
-* maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
+* Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to - creating a Pull Request against the master of original source when they are ready. 
+* Contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. Creating a Pull Request against the master of original source when they are ready. 
 
-* maintainers can integrate the Better Code Hub Pull request analysis in their continuous integration and merge the refactoring if they're happy with it. 
+* Maintainers can integrate the Better Code Hub Pull request analysis in their continuous integration and merge the refactoring if they're happy with it. 
 
 # Getting started 
 
@@ -66,6 +66,6 @@ To enable Better Code Hub to run on your own fork for every Push and Pull Reques
 
 Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. We're always happy to hear improvement suggestions from you.  
 
-*Let's do some thorough cleaning here, one Pull Request at a time!*
+*Let's do some thorough spring cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
