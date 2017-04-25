@@ -1,25 +1,18 @@
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Request
-
 * maintainers create GitHub issues with the "SpringCleaning" label
 * contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request
 
 **Creating GitHub issues**
-
 * maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
 
 **Merging Pull Requests**
-
 * contributors refactor and create a Pull request to the master branch in the source repo.
 * maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
-
 ----------------------------------
 
-
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
-
-
 
 # Why this Open Source Spring Cleaning?
 
@@ -39,9 +32,9 @@ If you participate in this effort we'll reward you:
 
 * maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to - creating a Pull Request when they are ready. 
+* contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) they're used to - creating a Pull Request against the master of original source when they are ready. 
 
-* maintainers can use the Better Code Hub Pull request analysis results to review and merge the improvement if they're happy with it. 
+* maintainers can use the Better Code Hub Pull request analysis results to review in their continuous integration and merge the refactoring if they're happy with it. 
 
 # Getting started 
 
