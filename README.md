@@ -1,5 +1,3 @@
-**In short**
-
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Requests
