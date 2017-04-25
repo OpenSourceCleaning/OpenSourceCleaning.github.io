@@ -1,19 +1,19 @@
 **When**: May 2017 |
 
-**Workflow**: Create GitHub issues, refactor and merge Pull Requests
+**Workflow**: Create GitHub issues, refactor and merge Pull Requests |
 
-* maintainers create GitHub issues with the "SpringCleaning" label
-* contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request
+* maintainers create GitHub issues with the "SpringCleaning" label |
+* contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request |
 
-**Creating GitHub issues**
+**Creating GitHub issues** |
 
-* maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
+* maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub) |
 
-**Merging Pull Requests**
+**Merging Pull Requests** |
 
-* contributors refactor and create a Pull request to the master branch in the source repo.
-* maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
------
+* contributors refactor and create a Pull request to the master branch in the source repo. |
+* maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge. |
+
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
