@@ -1,6 +1,6 @@
 **When**: May 2017
 
-**Workflow**: By creating GitHub issues and merging Pull Requests
+**Workflow**: Create GitHub issues, refactor and merge Pull Requests
 
 * maintainers create GitHub issues with the "SpringCleaning" label
 * contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request
