@@ -1,4 +1,4 @@
-**When**: May 2017
+**When**: May 2017 |
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Requests
 
@@ -13,6 +13,7 @@
 
 * contributors refactor and create a Pull request to the master branch in the source repo.
 * maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
+-----
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
