@@ -69,3 +69,5 @@ Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. W
 *Let's do some thorough spring cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
+
+![broom](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/27282130.png "Broom")
