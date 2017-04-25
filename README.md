@@ -17,7 +17,7 @@
 
 # Why this Open Source Spring Cleaning initiative?
 
-Starting out contributing to open source projects can be daunting. Opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
+Starting out contributing to open source projects can be daunting. Some say that open source can be intimidating. Opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
 
 We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) think there's untapped potential here. There's latent talent that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create bite sized refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. Now, "the ice is broken" and new faces get the hang of it, and became motivated to provide more and increasingly difficult but rewarding contributions. 
 
