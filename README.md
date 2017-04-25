@@ -1,6 +1,9 @@
 **When**: May 2017
 
-**How**: [Issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) (maintainers create / contributors search and work on)
+**How**: Search for [Issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) 
+
+* maintainers create GitHub issues 
+* contributors refacor the issues and create a Pull request
 
 **Powered by**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu) that integrates with your Push & Pull request.
 
