@@ -1,4 +1,4 @@
-## Open Source Spring Cleaning
+## Open Source Spring Cleaning Participants
 
 To participate add your Better Code Hub badge here by sending us a Pull request
 
