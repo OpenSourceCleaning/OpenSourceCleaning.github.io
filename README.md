@@ -1,15 +1,24 @@
 **When**: May 2017
 
-**How**: By using GitHub issues and Pull Requests
+**Workflow**: By creating GitHub issues and merging Pull Requests
 
 * maintainers create GitHub issues with the "SpringCleaning" label
 * contributors refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request
 
-**Selection of refactor candidates and Definition of Done provided by**: [Better Code Hub](https://bettercodehub.com) - a [GitHub Integration](https://github.com/integrations/better-code-hub) provided by [Software Improvement Group SIG](https://www.sig.eu) that integrates with your Push & Pull request.
+**Creating GitHub issues**
+
+* maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
+
+** Merging Pull Requests**
+
+* contributors refactor and create a Pull request to the master branch in the source repo
+* maintainers can use Pull request integration to accept the merge
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
-# What is Open Source Spring Cleaning?
+
+
+# Why this Open Source Spring Cleaning?
 
 Starting out contributing to open source projects can be daunting. Opening up the issues pertaining to popular open source projects typically means unfolding a set of very technical tasks for which without deep codebase knowledge are pretty much untouchable. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
 
