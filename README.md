@@ -15,7 +15,7 @@
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
-# Why this Open Source Spring Cleaning?
+# Why this Open Source Spring Cleaning initiative?
 
 Starting out contributing to open source projects can be daunting. Opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
 
