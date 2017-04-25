@@ -32,7 +32,7 @@ If you participate in this effort we'll reward you:
 
 **As a maintainer**
 
-Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring cleaning scoreboard) You can also send us an e-mail if you prefer and we'll put it up there. 
+Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring Cleaning Score Board) You can also send us an e-mail if you prefer and we'll put it up there. 
 
 Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). For example an issue to remove duplication. 
 
