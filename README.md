@@ -70,4 +70,4 @@ Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. W
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
-![Broom](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/27282130.png
+![Broom](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/27282130.png "Broom")
