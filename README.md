@@ -2,14 +2,14 @@
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Requests
 * Maintainers create GitHub issues with the "SpringCleaning" label in the Parent.
-* Contributors fork and refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request from Head to Base.
+* Contributors fork and refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull Request from Head to Base.
 
 **Creating GitHub issues**
 * Maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
 
 **Merging Pull Requests**
-* Contributors refactor and create a Pull request from the Head of their fork to the Base of the parent repo.
-* Maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
+* Contributors refactor and create a Pull Request from the Head of their fork to the Base of the Parent.
+* Maintainers can use Better Code Hub Pull Request integration to validate the quality and accept the merge.
 
 ---------
 
@@ -25,7 +25,7 @@ We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.s
 
 If you participate in this effort we will reward you: 
 
-* If you're a contributor, we will send you a hard copy of O'Reilly's book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
+* If you're a contributor, we will send you a free hard copy of O'Reilly's book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
 
 * If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
@@ -33,21 +33,22 @@ If you participate in this effort we will reward you:
 
 * Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* Contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. Creating a Pull Request against the master of original source when they are ready. 
+* Contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. Creating a Pull Request against the base of the Parent when they are ready. 
 
-* Maintainers can integrate the Better Code Hub Pull request analysis in their continuous integration and merge the refactoring if they're happy with it. 
+* Maintainers can integrate the Better Code Hub Pull Request analysis in their continuous integration and only merge the refactoring if they're happy with it. 
 
 # Getting started 
 
 **As a maintainer**
 
-Send us a Pull request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (our Open Source Spring Cleaning Score Board) You can also send us an e-mail if you prefer and we'll put it up there. 
+Send us a Pull Request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (This is our Open Source Spring Cleaning Score Board) You can also send us an e-mail if you prefer and we'll put it up there. The code for the badge can be found under the  ⚙ icon in Better Code Hub.
 
 Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). 
 
 **As a contributor**
 
-Search for repos which have [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
+Search for [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
+Fork, refactor and create a Pull Request from your Head to the Base of the Parent
 
 **How do I know my contribution is ready to be accepted?**
 
