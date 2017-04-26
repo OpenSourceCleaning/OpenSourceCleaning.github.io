@@ -41,14 +41,15 @@ If you participate in this effort we will reward you:
 
 **As a maintainer**
 
-Send us a Pull Request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). (This is our Open Source Spring Cleaning Score Board) You can also send us an e-mail if you prefer and we'll put it up there. The code for the badge can be found under the  ⚙ icon in Better Code Hub.
+Send us a Pull Request with your Better Code Hub Badge code [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). This is our Open Source Spring Cleaning Score Board. You can also send us an e-mail if you prefer and we'll put it up there. The code for the badge can be found under the  ⚙ icon in Better Code Hub.
 
 Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehub.com). 
 
 **As a contributor**
 
 Search for [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
-Fork, refactor and create a Pull Request from your Head to the Base of the Parent
+
+Fork, refactor and create a Pull Request from your Head to the Base of the Parent.
 
 **How do I know my contribution is ready to be accepted?**
 
