@@ -2,13 +2,13 @@
 
 **Workflow**: Create GitHub issues, refactor and merge Pull Requests
 * Maintainers create GitHub issues with the "SpringCleaning" label in the Parent.
-* Contributors fork and refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request from Head (Fork) to Base (Parent).
+* Contributors fork and refactor [SpringCleaning labeled issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) and create a Pull request from Head to Base.
 
 **Creating GitHub issues**
 * Maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
 
 **Merging Pull Requests**
-* Contributors refactor and create a Pull request from the Head of their Fork to the base of the Parent repo.
+* Contributors refactor and create a Pull request from the Head of their fork to the Base of the parent repo.
 * Maintainers can use Better Code Hub Pull request integration to validate the quality and accept the merge.
 
 ---------
