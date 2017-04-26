@@ -25,7 +25,7 @@ We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.s
 
 If you participate in this effort we will reward you: 
 
-* If you're a contributor, we will send you a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
+* If you're a contributor, we will send you a hard copy of O'Reilly's book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
 
 * If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
