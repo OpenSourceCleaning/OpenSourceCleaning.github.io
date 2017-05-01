@@ -1,7 +1,7 @@
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
-* Maintainers create GitHub issues with the ["SpringCleaning"](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)  label in the repository they maintain, using the refactoring candidates based from the [Better Code Hub](https://bettercodehub.com) analysis results. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub). 
+* Maintainers create GitHub issues with the ["SpringCleaning"](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)  label in the repository they maintain, using the refactoring candidates from the [Better Code Hub](https://bettercodehub.com) analysis results. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub). 
 * Contributors fork the repo, refactor code based on the issue's description and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 * Maintainers can use the Better Code Hub webhook integration to validate the contribution and accept the merge.
 
