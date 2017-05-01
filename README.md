@@ -1,21 +1,15 @@
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
-* Maintainers create GitHub issues with the ["SpringCleaning"](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)  label in the repository they maintain.
+* Maintainers create GitHub issues with the ["SpringCleaning"](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)  label in the repository they maintain, using the refactoring candidates based from the [Better Code Hub](https://bettercodehub.com) analysis results. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub). 
 * Contributors fork the repo, refactor code based on the issue's description and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
-
-**Creating GitHub issues**
-* Maintainers select refactoring candidates based on [Better Code Hub](https://bettercodehub.com) analysis results. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub). 
-
-**Merging Pull Requests**
-* Contributors refactor and create a [Pull Request from the Head of their fork to the Base of the Parent](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
-* Maintainers can use Better Code Hub webhook integration to validate the quality improvement and accept the merge.
+* Maintainers can use the Better Code Hub webhook integration to validate the contribution and accept the merge.
 
 **Need a Playground?**
 * Like to see a sample Better Code Hub report?
-* Want to see Better Code Hub select refactor candidates?
-* Do some refactoring first? 
-* Fork this repo: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
+* Want to see Better Code Hub propose refactor candidates?
+* Do some practice refactoring first? 
+* Use this repo: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
 ---------
 
@@ -25,7 +19,7 @@
 
 Starting out contributing to open source projects can be daunting. Some say that open source can be downright intimidating. No wonder, since opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
 
-We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) see untapped potential here. There's latent development effort that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create "bite sized" refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. "The ice is broken" now, new faces get the hang of it, and become motivated to provide more and increasingly difficult but rewarding contributions. 
+We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) see untapped potential here. There's latent development effort that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create "bite sized" refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. "The ice is broken" now, new faces get the hang of it, and become motivated to provide more and increasingly difficult but rewarding contributions. ope
 
 # What's in it for you? 
 
@@ -55,7 +49,7 @@ Then create 'SpringCleaning' issues using [Better Code Hub](https://bettercodehu
 
 Search for [issues with the "SpringCleaning" label, on Github](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
 
-Fork, refactor and create a Pull Request from your Head to the Base of the Parent.
+Fork, refactor and create a Pull Request from your Head to the Base of the Parent repository.
 
 **How do I know my contribution is ready to be accepted?**
 
