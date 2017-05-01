@@ -11,9 +11,10 @@
 * Contributors refactor and create a Pull Request from the Head of their fork to the Base of the Parent.
 * Maintainers can use Better Code Hub Pull Request integration to validate the quality and accept the merge.
 
-**Need a Playground to fork and create Pull requests?**
-* Want to see Better Code Hub select refactor candidates for you first?
-* Like to do some refactoring yourself? 
+**Need a Playground?**
+* Like to see a sample Better Code Hub report?
+* Want to see Better Code Hub select refactor candidates?
+* Do some refactoring first? 
 * Fork this repo [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
 ---------
