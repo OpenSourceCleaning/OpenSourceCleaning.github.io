@@ -22,7 +22,7 @@ We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.s
 
 # What's in it for you? 
 
-If you participate in this initiative we will reward you with: 
+If you participate in this initiative you get rewarded with: 
 
 * If you're a contributor, we will send you a free hard copy of O'Reilly's book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
 
@@ -30,7 +30,7 @@ If you participate in this initiative we will reward you with:
 
 # How does it work?
 
-* Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [Editing and creating GitHub labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
+* Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create GitHub issues labelled 'SpringCleaning' based on them. [Editing and creating GitHub labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
 * Contributors search for [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the regular [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. They create a Pull Request against the base of the Parent repository when they are ready. 
 
