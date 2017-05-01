@@ -1,21 +1,21 @@
 **When**: May 2017
 
-**Workflow**: Create GitHub issues, refactor and merge Pull Requests
-* Maintainers create GitHub issues with a ["SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning) in the Parent repo they maintain.
-* Contributors fork the repo, refactor the issue and create a [Pull Request from Head to Base](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+**Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
+* Maintainers create GitHub issues with the ["SpringCleaning"](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning)  label in the repository they maintain.
+* Contributors fork the repo, refactor code based on the issue's description and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 **Creating GitHub issues**
-* Maintainers select refactor candidates based on: [Better Code Hub](https://bettercodehub.com) analysis. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub)
+* Maintainers select refactoring candidates based on [Better Code Hub](https://bettercodehub.com) analysis results. Better Code Hub is a [GitHub Integration](https://github.com/integrations/better-code-hub). 
 
 **Merging Pull Requests**
 * Contributors refactor and create a [Pull Request from the Head of their fork to the Base of the Parent](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
-* Maintainers can use Better Code Hub Pull Request integration to validate the quality and accept the merge.
+* Maintainers can use Better Code Hub webhook integration to validate the quality improvement and accept the merge.
 
 **Need a Playground?**
 * Like to see a sample Better Code Hub report?
 * Want to see Better Code Hub select refactor candidates?
 * Do some refactoring first? 
-* Fork this repo [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
+* Fork this repo: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
 ---------
 
@@ -23,13 +23,13 @@
 
 # Why this Open Source Spring Cleaning initiative?
 
-Starting out contributing to open source projects can be daunting. Some say that open source can be intimidating. Opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
+Starting out contributing to open source projects can be daunting. Some say that open source can be downright intimidating. No wonder, since opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here's [one](https://github.com/ReactiveX/RxJava/issues) example. Where would you start...? 
 
-We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) see untapped potential here. There's latent developer talent that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create bite sized refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. Now, "the ice is broken" and new faces get the hang of it, and become motivated to provide more and increasingly difficult but rewarding contributions. 
+We (the [Better Code Hub](https://bettercodehub.com) team at [SIG](https://www.sig.eu)) see untapped potential here. There's latent development effort that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would fit the bill nicely. Maintainers can create "bite sized" refactoring candidates and make them available for the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. "The ice is broken" now, new faces get the hang of it, and become motivated to provide more and increasingly difficult but rewarding contributions. 
 
 # What's in it for you? 
 
-If you participate in this effort we will reward you: 
+If you participate in this initiative we will reward you with: 
 
 * If you're a contributor, we will send you a free hard copy of O'Reilly's book [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) if you are one of the first 100 contributors that get a Spring Cleaning Pull Request accepted.
 
@@ -39,9 +39,9 @@ If you participate in this effort we will reward you:
 
 * Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create from them GitHub issues labelled 'SpringCleaning'. [GitHub help on creating and editing labels is here](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* Contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. Creating a Pull Request against the base of the Parent when they are ready. 
+* Contributors search [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the normal [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. They create a Pull Request against the base of the Parent when they are ready. 
 
-* Maintainers can integrate the Better Code Hub Pull Request analysis in their continuous integration and only merge the refactoring if they're happy with it. 
+* Maintainers can integrate the Better Code Hub webhook and only merge the refactoring if they're happy with it. 
 
 # Getting started 
 
