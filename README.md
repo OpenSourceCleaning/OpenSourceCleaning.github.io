@@ -51,11 +51,11 @@ Search on Github for [issues with the "SpringCleaning" label](https://github.com
 
 Fork, refactor and create a Pull Request from your Head to the Base of the Parent repository.
 
-# How do I know my contribution will be accepted?**
+# How do I know my contribution will be accepted?
 
 You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. 
 
-# Using [Better Code Hub](https://bettercodehub.com)**
+# Using [Better Code Hub](https://bettercodehub.com)
 
 ... is easy. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
