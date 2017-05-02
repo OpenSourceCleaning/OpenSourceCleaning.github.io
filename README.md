@@ -58,6 +58,25 @@ Don't hesitate to send us feedback about Better Code Hub at <a href="mailto:bett
 
 *Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
 
+Better Code Hub supports 16 programming languages upto 100.000 lines of code per repo:
+
+* C#
+* C++
+* Go
+* Groovy
+* Java
+* JavaScript
+* Objective C
+* Perl
+* PHP
+* Python
+* Ruby
+* Scala
+* Shell Script
+* Solidity
+* Swift
+* TypeScript
+
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
 ![Broom](https://raw.githubusercontent.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/master/27282130.png "Broom")
