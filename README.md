@@ -8,12 +8,6 @@ ___
 * Maintainers of open source repositories on GitHub create ["SpringCleaning"](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93) issues based on the refactoring candidates from the [Better Code Hub](https://bettercodehub.com) analysis results. 
 * Contributors fork the repo, refactor some code based on the issue's description and then create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) proposing the improvement to the maintainers.
 * Maintainers can use the Better Code Hub webhook integration to validate the contribution and accept the merge.
-
-**Need a Playground?**
-* Like to see a sample Better Code Hub report with the proposed refactoring candidates?
-* Fancy doing some practice refactoring first? 
-* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
-
 ___
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
@@ -53,6 +47,11 @@ Then proceed to creating 'SpringCleaning' issues using [Better Code Hub](https:/
 Search on Github for [issues with the "SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
 
 Fork, refactor and create a Pull Request from your Head to the Base of the Parent repository.
+
+**Need a Playground?**
+* Would you like to see a sample Better Code Hub report with the proposed refactoring candidates?
+* Fancy doing some practice refactoring first? 
+* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
 # How do I know my contribution will be accepted?
 
