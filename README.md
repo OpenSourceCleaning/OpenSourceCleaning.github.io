@@ -50,7 +50,7 @@ If you participate in this initiative you get rewarded with:
 **Need a Spring Cleaning Playground?**
 * Fancy doing some practice refactoring first? 
 * Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground)
-* Fork it and run Better Code Hub to see refactor candidates.
+* Fork it and run Better Code Hub to see refactoring candidates.
 
 ## Feedback 
 
