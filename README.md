@@ -1,6 +1,6 @@
 
 ___
-# Open Source Spring Cleaning - the gist:  
+# The gist:  
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
