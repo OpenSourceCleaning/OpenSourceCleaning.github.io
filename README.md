@@ -39,7 +39,7 @@ If you participate in this initiative you get rewarded with:
 
 **As a contributor**
 
-* Search on Github for [issues with the "SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
+* Search on Github for [issues with the "SpringCleaning" label](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93). 
 * Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 **Want to see a sample Better Code Hub report?**
