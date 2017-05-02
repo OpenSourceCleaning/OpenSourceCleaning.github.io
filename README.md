@@ -15,7 +15,7 @@ ___
 
 # What's the idea?
 
-Starting out contributing to open source projects can be daunting. Some say that open source can be downright intimidating. No wonder, since opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here is [one example](https://github.com/ReactiveX/RxJava/issues). This project is very successful of course, but where would a newcomer start...? 
+Starting out contributing to open source projects can be daunting. Some say that open source can be downright intimidating. No wonder, since opening up the issues belonging to popular open source projects typically means unfolding a set of very technical tasks for which deep codebase knowledge is crucial. Here is [one example](https://github.com/ReactiveX/RxJava/issues). This project is very successful, but where would a newcomer start...? 
 
 We see untapped potential here. There is latent development capacity that can be leveraged to bring open source projects forward, if a more "gentle" starting point would exist. We hold the belief that code quality improvements would be a nice fit for this. Maintainers can create bite-sized improvement items (refactoring candidates) and then propose them to be refactored by the community. The community can pick these up and do them, sparking a positive and welcoming exchange between the maintainers and new contributors. "The ice is broken" now, new faces get the hang of it, and become motivated to provide more contributions. 
 
