@@ -1,3 +1,6 @@
+
+___
+# Open Source Spring Cleaning - the gist:  
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
@@ -10,7 +13,7 @@
 * Fancy doing some practice refactoring first? 
 * Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
----------
+___
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
 
