@@ -55,7 +55,7 @@ If you participate in this initiative you get rewarded with:
 
 Don't hesitate to send us feedback about Better Code Hub at bettercodehub@sig.eu. 
 
-*Let's do some thorough spring cleaning here, one Pull Request at a time!*
+*Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
