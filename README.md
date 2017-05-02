@@ -49,7 +49,7 @@ If you participate in this initiative you get rewarded with:
 **Need a Playground?**
 * Would you like to see a sample Better Code Hub report with the proposed refactoring candidates?
 * Fancy doing some practice refactoring first? 
-* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) =
+* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
 
 ## Feedback 
 
