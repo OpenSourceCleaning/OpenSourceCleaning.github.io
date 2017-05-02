@@ -3,7 +3,7 @@ ___
 # The gist
 **When**: _May 2017_
 
-**How it works**: _Create GitHub issues, fork, refactor, open/merge Pull Requests_
+**How it works**: _SpringCleaning GitHub issues, fork, refactor, open/merge Pull Requests_
 
 * Maintainers of open source repositories on GitHub create ["SpringCleaning"](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93) issues based on the refactoring candidates from the [Better Code Hub](https://bettercodehub.com) analysis results. 
 * Contributors fork the repo, refactor some code based on the issue's description and then create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
