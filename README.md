@@ -36,17 +36,17 @@ If you participate in this initiative you get rewarded with:
 
 * Then proceed to creating 'SpringCleaning'-labelled issues using [Better Code Hub](https://bettercodehub.com). [Editing and creating GitHub labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch:
-
-![githubflow](https://cdn-images-1.medium.com/max/720/1*N4wz389i80UbXKnjSp_QoA.png "Activate GitHub flow")
+* To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
 **As a contributor**
 
-Search on Github for [issues with the "SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
+* Search on Github for [issues with the "SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
 
-Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+* Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) following the [GitHub Flow](https://guides.github.com/introduction/flow/).
 
-_How do I know my contribution will be accepted?_ You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
+* _How do I know my contribution will be accepted?_ 
+
+You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
 **Need a Playground?**
 * Would you like to see a sample Better Code Hub report with the proposed refactoring candidates?
