@@ -35,7 +35,7 @@ If you participate in this initiative you get rewarded with:
 
 * Maintainers use [Better Code Hub](https://bettercodehub.com) to receive a set of proposed prioritized refactoring candidates. They then create GitHub issues labelled 'SpringCleaning' based on them. [Editing and creating GitHub labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
-* Contributors search for [these issues](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning), pick them up and follow the regular [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. They create a Pull Request against the base of the Parent repository when they are ready. 
+* Contributors search for [these issues](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93), pick them up and follow the regular [GitHub flow](https://guides.github.com/introduction/flow/) that they are used to. They create a Pull Request against the base of the Parent repository when they are ready. 
 
 * Maintainers can integrate the Better Code Hub webhook to check the contribution and only merge it if they're happy with it. 
 
