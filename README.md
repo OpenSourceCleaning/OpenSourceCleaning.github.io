@@ -1,6 +1,6 @@
 
 ___
-# The gist
+# The Gist
 **When**: _May 2017_
 
 **How it works**: _Create SpringCleaning GitHub issues, fork, refactor, open/merge Pull Requests_
