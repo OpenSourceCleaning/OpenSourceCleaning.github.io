@@ -53,7 +53,7 @@ If you participate in this initiative you get rewarded with:
 * Fork it and run Better Code Hub to see refactoring candidates.
 
 # Keep in mind
-Better Code Hub supports 16 programming languages upto 100.000 lines of code per repo:
+Better Code Hub supports 16 programming languages up to 100,000 lines of code per repository:
 
 * C#
 * C++
