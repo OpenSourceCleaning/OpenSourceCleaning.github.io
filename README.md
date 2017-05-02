@@ -44,13 +44,12 @@ If you participate in this initiative you get rewarded with:
 
 * Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) following the [GitHub Flow](https://guides.github.com/introduction/flow/).
 
-* _How do I know my contribution will be accepted?_ You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
+* How do I know my contribution will be accepted? You can't know for sure of course, it's up to the maintainer. But you can use Better Code Hub on your proposed contribution and check the guidelines before contacting the maintainer. Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
 **Need a Playground?**
 * Would you like to see a sample Better Code Hub report with the proposed refactoring candidates?
 * Fancy doing some practice refactoring first? 
-* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) 
-
+* Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground) =
 
 ## Feedback 
 
