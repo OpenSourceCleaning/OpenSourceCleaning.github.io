@@ -53,7 +53,7 @@ If you participate in this initiative you get rewarded with:
 
 ## Feedback 
 
-Don't hesitate to send us feedback about our platform at bettercodehub@sig.eu. We're always happy to hear improvement suggestions from you.  
+Don't hesitate to send us feedback about Better Code Hub at bettercodehub@sig.eu. 
 
 *Let's do some thorough spring cleaning here, one Pull Request at a time!*
 
