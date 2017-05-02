@@ -33,28 +33,27 @@ If you participate in this initiative you get rewarded with:
 **As a maintainer**
 
 * (If not already done) Enable issues in the repository's settings page.
-
 * Create a 'SpringCleaning'-label [Here's how.](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
-
 * Create issues based on the proposed prioritized refactoring candidates from [Better Code Hub](https://bettercodehub.com) and attach the 'SpringCleaning' label to them.
-
 * To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch. This will activate the webhook.
 
 **As a contributor**
 
 * Search on Github for [issues with the "SpringCleaning" label](https://github.com/issues?utf8=✓&q=is%3Aopen+label%3Aspringcleaning). 
-
 * Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 **Want to see a sample Better Code Hub report?**
+
 * Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
 **Need a Spring Cleaning Playground?**
+
 * Fancy doing some practice refactoring first? 
 * Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground)
 * Fork it and run Better Code Hub to see refactoring candidates.
 
 # Keep in mind
+
 Better Code Hub supports 16 programming languages up to 100,000 lines of code per repository:
 
 * C#
