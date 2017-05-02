@@ -34,7 +34,7 @@ If you participate in this initiative you get rewarded with:
 
 * Send us a Pull Request with your Better Code Hub Badge added [here](https://github.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/blob/master/SpringCleaningScoreBoard.md). This is our Open Source Spring Cleaning Score Board. You can also send us an e-mail with it if you prefer, and we'll put it up there. The code for the Badge can be found by clicking on the  ⚙ icon in Better Code Hub after running an initial analysis.
 
-* Then proceed to creating 'SpringCleaning'-labelled issues using [Better Code Hub](https://bettercodehub.com). [Editing and creating GitHub labels](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
+* Then proceed to creating 'SpringCleaning'-labelled issues using [Better Code Hub](https://bettercodehub.com).[Here's how.](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
 
 * To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
 
