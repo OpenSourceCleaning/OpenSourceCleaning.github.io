@@ -10,6 +10,7 @@ ___
 * Maintainers can use the Better Code Hub webhook integration to validate the contribution and accept the merge.
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/OpenSourceSpringCleaning/Lobby)
+
 ___
 
 # Why do Open Source Spring Cleaning?
