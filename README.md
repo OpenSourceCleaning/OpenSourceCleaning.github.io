@@ -52,12 +52,7 @@ If you participate in this initiative you get rewarded with:
 * Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground)
 * Fork it and run Better Code Hub to see refactoring candidates.
 
-## Feedback 
-
-Don't hesitate to send us feedback about Better Code Hub at <a href="mailto:bettercodehub@sig.eu">bettercodehub@sig.eu</a>. 
-
-*Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
-
+# Keep in mind
 Better Code Hub supports 16 programming languages upto 100.000 lines of code per repo:
 
 * C#
@@ -76,6 +71,12 @@ Better Code Hub supports 16 programming languages upto 100.000 lines of code per
 * Solidity
 * Swift
 * TypeScript
+
+# Feedback 
+
+Don't hesitate to send us feedback about Better Code Hub at <a href="mailto:bettercodehub@sig.eu">bettercodehub@sig.eu</a>. 
+
+*Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
 
