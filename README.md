@@ -1,6 +1,6 @@
 
 ___
-# The gist:  
+# The gist
 **When**: May 2017
 
 **Workflow**: Create GitHub issues, refactor, open/merge Pull Requests
