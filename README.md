@@ -21,7 +21,7 @@ We see untapped potential here. There is latent development capacity that can be
 
 _Every Pull Request matters. With enough of these contributions, the open source code on GitHub gets cleaner, easier to work with, reuse and extend. Small improvements, added up, will make a difference._
 
-# How do we reward participation?  
+# What's the reward for participation?  
 
 If you participate in this initiative you get rewarded with: 
 
