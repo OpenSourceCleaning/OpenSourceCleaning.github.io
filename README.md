@@ -38,7 +38,7 @@ If you participate in this initiative you get rewarded with:
 
 * Create issues based on the proposed prioritized refactoring candidates from [Better Code Hub](https://bettercodehub.com) and attach the 'SpringCleaning' label to them.
 
-* To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch.
+* To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch. This will activate the webhook.
 
 **As a contributor**
 
