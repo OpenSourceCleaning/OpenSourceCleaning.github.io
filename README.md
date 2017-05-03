@@ -80,5 +80,3 @@ Don't hesitate to send us feedback about Better Code Hub at <a href="mailto:bett
 *Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
-
-![Broom](https://raw.githubusercontent.com/OpenSourceSpringCleaning/OpenSourceSpringCleaning.github.io/master/27282130.png "Broom")
