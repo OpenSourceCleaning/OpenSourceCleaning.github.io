@@ -25,7 +25,7 @@ _Every Pull Request matters. With enough of these contributions, the open source
 
 If you participate in this initiative you get rewarded with: 
 
-* The first 100 contributors that get a SpringCleaning Pull Request accepted will get a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (O'Reilly).
+* The first 100 contributors that get a SpringCleaning Pull Request accepted will get a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (O'Reilly).
 * If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
 # Getting started 
