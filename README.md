@@ -1,11 +1,11 @@
 
 ___
 # The Gist
-**When**: _May 2017_
+**When**: _January 2018_
 
-**How it works**: _Create SpringCleaning GitHub issues, fork, refactor, open/merge Pull Requests_
+**How it works**: _Create OpenSourceCleaning GitHub issues, fork, refactor, open/merge Pull Requests_
 
-* Maintainers of open source repositories on GitHub create ["SpringCleaning"](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93) issues based on the proposed prioritized refactoring candidates from the [Better Code Hub](https://bettercodehub.com) analysis results. 
+* Maintainers of open source repositories on GitHub create ["OpenSourceCleaning"](https://github.com/search?q=label%3AOpenSourceCleaning&type=Issues&utf8=%E2%9C%93) issues based on the proposed prioritized refactoring candidates from the [Better Code Hub](https://bettercodehub.com) analysis results. 
 * Contributors fork the repo, refactor some code based on the issue's description and then create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) proposing the improvement to the maintainers.
 * Maintainers can use the Better Code Hub webhook integration to validate the contribution and merge the Pull Request.
 
@@ -21,12 +21,6 @@ We see untapped potential here. There is latent development capacity that can be
 
 _Every Pull Request matters. With enough of these contributions, the open source code on GitHub gets cleaner, easier to work with, reuse and extend. Small improvements, added up, will make a difference. The Open Source world will be a better place._
 
-# What's the reward for participation?  
-
-If you participate in this initiative you get rewarded with: 
-
-* The first 100 contributors that get a SpringCleaning Pull Request accepted will get a hard copy of [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (O'Reilly).
-* If you're a maintainer, you get a cleaner code base and new contributors to extend your repository. 😊 
 
 # Getting started 
 
@@ -39,14 +33,14 @@ If you participate in this initiative you get rewarded with:
 
 **As a contributor**
 
-* Search on Github for [issues with the "SpringCleaning" label](https://github.com/search?q=label%3ASpringCleaning&type=Issues&utf8=%E2%9C%93). 
+* Search on Github for [issues with the "OpenSourceCleaning" label](https://github.com/search?q=label%3AOpenSourceCleaning&type=Issues&utf8=%E2%9C%93). 
 * Fork, refactor and create a [Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 **Want to see a sample Better Code Hub report?**
 
 * Head over to [bettercodehub.com](https://bettercodehub.com) and login with your GitHub account. You'll then see your repos, and you can start an analysis clicking the ▶️ button. It will analyze the default branch. 
 
-**Need a Spring Cleaning Playground?**
+**Need a Playground?**
 
 * Fancy doing some practice refactoring first? 
 * Here's a repo just for that: [Playground](https://github.com/OpenSourceSpringCleaning/Playground)
@@ -77,6 +71,6 @@ Better Code Hub supports 16 programming languages up to 100,000 lines of code pe
 
 Don't hesitate to send us feedback about Better Code Hub at <a href="mailto:bettercodehub@sig.eu">bettercodehub@sig.eu</a>. 
 
-*Let's do some thorough Spring Cleaning here, one Pull Request at a time!*
+*Let's do some thorough Open Source Cleaning, one Pull Request at a time!*
 
 [Rob](https://github.com/robvanderleek), [Mircea](https://github.com/mcadariu) and [Michiel](https://github.com/michielcuijpers)
