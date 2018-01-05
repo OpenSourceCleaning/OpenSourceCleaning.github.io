@@ -27,8 +27,8 @@ _Every Pull Request matters. With enough of these contributions, the open source
 **As a maintainer**
 
 * (If not already done) Enable issues in the repository's settings page on GitHub.
-* Create a 'SpringCleaning'-label [Here's how.](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
-* Create issues based on the proposed prioritized refactoring candidates from [Better Code Hub](https://bettercodehub.com) and attach the 'SpringCleaning' label to them.
+* Create a 'OpenSourceCleaning'-label [Here's how.](https://help.github.com/articles/creating-and-editing-labels-for-issues-and-pull-requests/)
+* Create issues based on the proposed prioritized refactoring candidates from [Better Code Hub](https://bettercodehub.com) and attach the 'OpenSourceCleaning' label to them.
 * To enable Better Code Hub to run on every Push and Pull Request, click the ⚙ icon and toggle the "Push & Pull request analysis" switch. This will activate the webhook.
 
 **As a contributor**
